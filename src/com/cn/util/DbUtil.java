@@ -10,7 +10,7 @@ public class DbUtil {
 	private static String driver = "com.mysql.jdbc.Driver";
 	private static String url = "jdbc:mysql://localhost:3306/guoyu?useUnicode=true&characterEncoding=utf8";
 	private static String user = "root";
-	private static String password = "123456";
+	private static String password = "210208";
 
 	public Connection getCon() {
 		Connection con = null;
